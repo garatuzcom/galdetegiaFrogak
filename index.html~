@@ -1,0 +1,80 @@
+<html>
+
+<head>
+<title> Galdetegia 1.0 </title>
+
+	 <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <link rel="stylesheet" href="./assets/css/gure.css" />
+	 <link rel="stylesheet" href="./assets/css/jquery.mobile-1.2.css" />
+	 <link rel="stylesheet" href="./assets/css/gure.css" />
+	 <script src="assets/js/jquery-1.8.2.min.js"></script>
+	 <script src="assets/js/jquery.mobile-1.2.0.min.js"></script>
+	 <script src="assets/js/cordova.js"></script>
+	 <script src="assets/js/dblocalStorage.js"></script>
+	 <script src="assets/js/gure.js"></script>
+	
+
+</head>
+
+<body>
+<!-- ORRIALDE NAGUSIA ********************************************************* -->
+
+<div data-role="page" id="Nagusia" data-title="Nagusia" data-theme="a">
+
+	<div data-role="header" data-theme="d">
+			<h1>Galdetegia 2014</h1>
+	
+	</div><!-- /header -->
+	<div id="betekada"></div>
+	<div data-role="content">	
+		
+			<div id="guremenua">
+		
+				<a href="#Arrasate" onclick="erakutsiGaldera('Arrasate',1)"><img class="ikonoak" src="assets/css/images/egitaraua.png" ></a>
+			
+			</div>
+			
+		
+			
+	</div><!-- /content -->
+
+
+</div><!-- /page -->
+
+<!--************************ Arrasate galdetegiaren orrialdea ********************************* -->
+
+<div data-role="page" id="Arrasate" data-title="Arrasate" data-theme="a">
+
+	<div data-role="header" data-theme="c">
+        <div data-role="navbar">	
+	<ul>
+	<li>puntuak:<div id="marka">0</div></li>
+        <li><div id="izenb"> Arrasate</div> </li>
+        <li>galdera:<div id="gaze">1</div></li>
+    </ul>
+            </div>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+	
+        <div id="galdera">
+
+        </div>
+	
+		
+	</div><!-- /content -->
+
+	<div data-role="footer" data-position="fixed"  >
+	<div data-role="navbar">	
+	<ul>
+	<li><a href="#Nagusia" data-icon="home"></a></li>
+		<!-- <li><a href="#" onclick="galderaAtzera('')"><<</a></li>
+		<li><a href="#" onclick="galderaAurrera('')"></a></li>-->
+	</ul>
+</div>
+
+	</div><!-- /footer -->
+</div><!-- /page -->
+
+</body>
+</html>

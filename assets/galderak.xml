@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<guregalderak>
+<galdetegia izena="Arrasate">
+  <galdera id="1" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko auzorik altuena?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Udala</aukera>
+   	      <aukera au="2">Bedoña</aukera>
+    	  <aukera au="3">San Andres </aukera>
+  		  <aukera au="4"> Musakola </aukera>
+    
+  </galdera>
+  <galdera id="2" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko erraldoien izena?</galderabera>
+    	  <aukera au = "1" >Juan eta Pedro</aukera>
+   	      <aukera au = "2" >Aitzol eta Txipi</aukera>
+    	  <aukera au = "3" erantzuna="ok" >Marittipi eta marilozti</aukera>
+  		  <aukera au = "4"> Marialuisa eta Mariuluis </aukera>
+    
+  </galdera>	
+  <galdera id="3" mota="1" zail="1">
+    <galderabera>Zein mendiren itzaletan dago Arrasate?</galderabera>
+    	  <aukera au = "1" erantzuna="ok" >Udalaitz</aukera>
+    	  <aukera au = "2" >Anboto</aukera>
+    	  <aukera au = "3" >Kurtzebarri</aukera>
+  		  <aukera au = "4" > Muru </aukera>
+    
+  </galdera>	
+    <galdera id="4" mota="2" zail="1" src="./assets/css/images/udalatx.jpg">
+         <galderabera>Zein da ondoko irudian azaltzen den mendia?</galderabera>
+         
+    	  <aukera au="1" erantzuna="ok" >Udalatx</aukera>
+   	      <aukera au="2"> Anboto</aukera>
+    	  <aukera au="3" > Teilamendi </aukera>
+  		  <aukera au="4"> Aneto </aukera>
+    
+  </galdera>
+  <galdera id="5" mota="1" zail="1">
+    <galderabera>Green hack lab edo...</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Garatuz.com</aukera>
+   	      <aukera au="2">hack lab green</aukera>
+    	  <aukera au="3" >mmm ez dakit </aukera>
+  		  <aukera au="4" > auskalo </aukera>
+    
+  </galdera>	
+  <galdera id="6" mota="2" zail="1" src="./assets/css/images/udalatx.jpg" >
+    <galderabera >Nondik dago aterata ondoko argazkia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Murumendi</aukera>
+   	      <aukera au="2" >Bedoña</aukera>
+    	  <aukera au="3" >Udala </aukera>
+  		  <aukera au="4" >Apotza </aukera>
+    
+  </galdera>	
+    <galdera id="7" mota="3" zail="1">
+    <galderabera>Ondoko argazkietatik, zein ez da Arrasate?</galderabera>
+        <aukera au="1" erantzuna="ok" src="./assets/css/images/sanmarkos.jpg" >A</aukera>
+   	    <aukera au="2" src="./assets/css/images/udalatx.jpg">B</aukera>
+        <aukera au="3" src="./assets/css/images/udalatx.jpg">D</aukera>
+        <aukera au="4" src="./assets/css/images/udalatx.jpg">E</aukera>
+    
+  </galdera>
+  <galdera id="8" mota="1" zail="1">
+    <galderabera>Zeintzuk dira Arrasateko jai nagusiak?</galderabera>
+    	  <aukera au="1" >Santa Ageda, Maritxu Kajoi eta San Juanak</aukera>
+           <aukera au="2" >San Juanak</aukera>
+    	  <aukera au="3" erantzuna="ok">San Juanak, Maritxu Kajoi eta Santamasak </aukera>
+  		  <aukera au="4" > San Martzialak, eta Erregeak </aukera>
+    
+  </galdera>	
+  <galdera id="9" mota="1" zail="1">
+    <galderabera>Noiz ospatzen da Maritxu Kajoi?</galderabera>
+    	  <aukera au="1"  >Iraileko azkenengo ostiralean</aukera>
+   	      <aukera au="2" erantzuna="ok" >Urriako lehen ostirala</aukera>
+    	  <aukera au="3" >Ekainak 24 </aukera>
+  		  <aukera au="4" > Abenduak 21 </aukera>
+    
+  </galdera>	
+    
+  <galdera id="10" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko patroia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >San Juan</aukera>
+   	      <aukera au="2" >San Martzial</aukera>
+    	  <aukera au="3" >San Pedro</aukera>
+  		  <aukera au="4" > San Agustin de Barraneda </aukera>
+    
+  </galdera>	
+    
+  <galdera id="11" mota="1" zail="1">
+    <galderabera>Nola dute izena Arrasateko erdialdean dauden bi parkeek?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Monterron eta Santa Barbara</aukera>
+   	      <aukera au="2" >Santa Barbara eta kondekua</aukera>
+    	  <aukera au="3" >Arbolapeta eta Kontzeziño</aukera>
+  		  <aukera au="4" >Monterron eta Murumendi </aukera>
+  </galdera>	
+    
+  <galdera id="12" mota="1" zail="1">
+    <galderabera>Ondorengoetatik,zein ez da Arrasateko auzoa?</galderabera>
+    	  <aukera au="1" >San Andres</aukera>
+   	      <aukera au="2" >Zigarrola</aukera>
+    	  <aukera au="3" erantzuna="ok" >San Martzial</aukera>
+  		  <aukera au="4" >Udala </aukera>
+  </galdera>	
+  <galdera id="13" mota="1" zail="1">
+    <galderabera>Mondraaa, mondra...</galderabera>
+    	  <aukera au="1" >guen iu ha, guen iu ho</aukera>
+   	      <aukera au="2" erantzuna="ok">guen iu ho, guen iu ha</aukera>
+    	  <aukera au="3"  >guen iu ho, guen i ho</aukera>
+  		  <aukera au="4" >guen iu ha, guen iu ha </aukera>
+  </galdera>	
+    
+  <galdera id="14" mota="1" zail="1">
+    <galderabera>Arrasate euskaldun dezagun edo...</galderabera>
+    	  <aukera au="1" erantzuna="ok">AED</aukera>
+   	      <aukera au="2" >AEK</aukera>
+    	  <aukera au="3"  >EHE</aukera>
+  		  <aukera au="4" >ARRAED </aukera>
+  </galdera>	
+
+  <galdera id="15" mota="1" zail="1">
+    <galderabera>Zein musika talde ez da Arrasatekoa?</galderabera>
+    	  <aukera au="1" >RIP</aukera>
+   	      <aukera au="2" >Brutal Melody</aukera>
+    	  <aukera au="3"  >Deskontrol</aukera>
+  		  <aukera au="4" erantzuna="ok"> Perros desidratados </aukera>
+  </galdera>	
+    
+  <galdera id="16" mota="1" zail="1">
+    <galderabera> *Zein da Arrasateko saski baloi taldeak jokatu duen kategoriarik altuena?</galderabera>
+    	  <aukera au="1" >ASOBAL liga</aukera>
+   	      <aukera au="2" erantzuna="ok">EBA liga</aukera>
+    	  <aukera au="3"  >EBA 2 liga</aukera>
+  		  <aukera au="4" >LEB </aukera>
+  </galdera>	
+    
+  <galdera id="17" mota="1" zail="1">
+    <galderabera> Zein da Aretxabaletako urtegixan izena?</galderabera>
+    	  <aukera au="1" >Landa</aukera>
+   	      <aukera au="2" >Albiña</aukera>
+    	  <aukera au="3" erantzuna="ok" >Urkulu</aukera>
+  		  <aukera au="4" >Aloña </aukera>
+  </galdera>	
+
+  <galdera id="18" mota="1" zail="1">
+    <galderabera> Zer jartzen da San Juanetan herriko plazan?</galderabera>
+    	  <aukera au="1" erantzuna="ok"> Txopua</aukera>
+   	      <aukera au="2" >Arrasateko armarri erraldoia</aukera>
+    	  <aukera au="3"  > Zezenketarako hesiak</aukera>
+  		  <aukera au="4" >Talo eta sagardo txozna</aukera>
+  </galdera>	
+    
+  <galdera id="19" mota="1" zail="1">
+    <galderabera> Zein da txikiteruen patroia?</galderabera>
+    	  <aukera au="1" erantzuna="ok"> Maritxu Kajoi</aukera>
+   	      <aukera au="2" >San Juan</aukera>
+    	  <aukera au="3"  > San Pedro</aukera>
+  		  <aukera au="4" >Santa Engraxi</aukera>
+  </galdera>
+  <galdera id="20" mota="1" zail="1">
+    <galderabera> Nola zuen izena Arrasateko gazteluak?</galderabera>
+    	  <aukera au="1" > Gaztelupe</aukera>
+   	      <aukera au="2" >San Juan Gaztelua</aukera>
+    	  <aukera au="3" erantzuna="ok" > Goikobalu</aukera>
+  		  <aukera au="4" >Santa Barbara gaztelua</aukera>
+  </galdera>
+ <galdera id="21" mota="1" zail="1">
+    <galderabera> Zeintzuk dira Arrasateko dantza taldeen izenak?</galderabera>
+    	  <aukera au="1" erantzuna="ok" > Txikitxu Arrostaitz eta Lore Gazteak</aukera>
+   	      <aukera au="2" >Lore Gazteak eta Udalatxpe</aukera>
+    	  <aukera au="3" > Goikobalu</aukera>
+  		  <aukera au="4" >Santa Barbara gaztelua</aukera>
+  </galdera>
+  
+ <galdera id="22" mota="1" zail="1">
+    <galderabera> Zein herritakoek erre zuten Arrasate duela X urte?</galderabera>
+    	  <aukera au="1" erantzuna="ok" > Oñatiarrek</aukera>
+   	      <aukera au="2" >Antzuolakoek</aukera>
+    	  <aukera au="3" > Bergarakoek</aukera>
+  		  <aukera au="4" >Eibarrekoek</aukera>
+  </galdera>
+
+ <galdera id="23" mota="1" zail="1">
+    <galderabera> Zeintzuk dira Arrasateko dantza herrikoiak? </galderabera>
+    	  <aukera au="1" erantzuna="ok" > Txerri dantza, Larrain dantza eta Errementari dantza</aukera>
+   	      <aukera au="2" >Mutil dantza eta aurreskua</aukera>
+    	  <aukera au="3" > 7 jauzi</aukera>
+  		  <aukera au="4" >Mutil dantza eta Errementari dantza.</aukera>
+  </galdera>
+    
+   <galdera id="24" mota="1" zail="1">
+    <galderabera> Zein herrialde batzen dira Besaiden? </galderabera>
+    	  <aukera au="1" > Gipuzkoa eta Bizkaia</aukera>
+   	      <aukera au="2" > Araba eta Gipuzkoa</aukera>
+    	  <aukera au="3" > Araba eta Bizkaia</aukera>
+  		  <aukera au="4" erantzuna="ok">Gipuzkoa , Bizkaia eta Araba</aukera>
+  </galdera>
+  
+   <galdera id="25" mota="1" zail="1">
+    <galderabera> Elorrixora joateko, nondik pasa behar da? </galderabera>
+    	  <aukera au="1" > Angiozartik</aukera>
+   	      <aukera au="2" erantzuna="ok"> Kanpantzarretik</aukera>
+    	  <aukera au="3" >Udalatik</aukera>
+  		  <aukera au="4" >Bedoñatik</aukera>
+  </galdera>
+  
+   <galdera id="26" mota="1" zail="1">
+    <galderabera> Zeintzuk dira Arrasateko errekak? </galderabera>
+    	  <aukera au="1" > Deba</aukera>
+   	      <aukera au="2" > Deba eta Udalaiturri</aukera>
+    	  <aukera au="3" erantzuna="ok">Deba eta Aramaixo</aukera>
+  		  <aukera au="4" >Bedoñabe eta deba</aukera>
+  </galdera>
+  
+   <galdera id="27" mota="1" zail="1">
+    <galderabera> Zein kaletan zegoen Arrasateko tren geltokia? </galderabera>
+    	  <aukera au="1" > San Andresen</aukera>
+   	      <aukera au="2" > Gipuzkoa etorbidean </aukera>
+    	  <aukera au="3" erantzuna="ok">Nafarroa etorbidean</aukera>
+  		  <aukera au="4" >Bizkaia etorbidean</aukera>
+  </galdera>
+  
+   <galdera id="28" mota="1" zail="1">
+    <galderabera> Non egiten zen goitibehera txapelketa? </galderabera>
+    	  <aukera au="1" erantzuna="ok"> Udalan</aukera>
+   	      <aukera au="2" > Bedoñan </aukera>
+    	  <aukera au="3" >Garagartzan</aukera>
+  		  <aukera au="4" >Monterronen</aukera>
+  </galdera>
+ 
+   <galdera id="29" mota="1" zail="1">
+    <galderabera> Zein da herriko jaietan txoznak jartzen diren lekuaren izena? </galderabera>
+    	  <aukera au="1" > Monterron pasealekua</aukera>
+   	      <aukera au="2" > Loramendi zelaia</aukera>
+    	  <aukera au="3" erantzuna="ok">Kondekua zelaia</aukera>
+  		  <aukera au="4" >Arbolapeta parekua</aukera>
+  </galdera>
+  
+   <galdera id="30" mota="1" zail="1" >
+    <galderabera> Zein da arbolapetako zuhaitzaren izena? </galderabera>
+    	  <aukera au="1" > plataneroa</aukera>
+   	      <aukera au="2" > haritza</aukera>
+    	  <aukera au="3" erantzuna="ok">hauxe da</aukera>
+  		  <aukera au="4" >Arbolapeta parekua</aukera>
+  </galdera>
+    <galdera id="31" mota="4" zail="1"  src="./assets/soinuak/errementari.ogg">
+    <galderabera> Zein dantzatakoa da ondorengo abestia? </galderabera>
+    	  <aukera au="1" > boga boga</aukera>
+   	      <aukera au="2" erantzuna="ok" > errementari dantza</aukera>
+    	  <aukera au="3" >Larrain dantza</aukera>
+  		  <aukera au="4" >Txerri dantza</aukera>
+  </galdera>
+  
+    <galdera id="32" mota="5" zail="2">
+    <galderabera> Zein dantzatakoa da ondorengo abestia? </galderabera>
+    	  <aukera au="1" > boga boga</aukera>
+   	      <aukera au="2" erantzuna="ok" > errementari dantza</aukera>
+    	  <aukera au="3" >Larrain dantza</aukera>
+  		  <aukera au="4" >Txerri dantza</aukera>
+  </galdera>
+  </galdetegia>
+<galdetegia izena="Aramaixo">
+  <galdera id="1" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko auzorik altuena?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Udala</aukera>
+   	      <aukera au="2">Bedoña</aukera>
+    	  <aukera au="3">San Andres </aukera>
+  		  <aukera au="4"> Musakola </aukera>
+    
+  </galdera>
+  <galdera id="2" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko erraldoien izena?</galderabera>
+    	  <aukera au = "1" >Juan eta Pedro</aukera>
+   	      <aukera au = "2" >Aitzol eta Txipi</aukera>
+    	  <aukera au = "3" erantzuna="ok" >Marittipi eta marilozti</aukera>
+  		  <aukera au = "4"> Marialuisa eta Mariuluis </aukera>
+    
+  </galdera>	
+  <galdera id="3" mota="1" zail="1">
+    <galderabera>Zein mendiren itzaletan dago Arrasate?</galderabera>
+    	  <aukera au = "1" erantzuna="ok" >Udalaitz</aukera>
+    	  <aukera au = "2" >Anboto</aukera>
+    	  <aukera au = "3" >Kurtzebarri</aukera>
+  		  <aukera au = "4" > Muru </aukera>
+    
+  </galdera>	
+    <galdera id="4" mota="2" zail="1" src="./assets/css/images/udalatx.jpg">
+         <galderabera>Zein da ondoko irudian azaltzen den mendia?</galderabera>
+          <irudia></irudia>
+    	  <aukera au="1" erantzuna="ok" >Auskalo</aukera>
+   	      <aukera au="2"> Bedoña</aukera>
+    	  <aukera au="3" >San Andres </aukera>
+  		  <aukera au="4"> Musakola </aukera>
+    
+  </galdera>
+  <galdera id="5" mota="1" zail="1">
+    <galderabera>Green hack lab edo...</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Garatuz.com</aukera>
+   	      <aukera au="2">Aitzol eta Txipi</aukera>
+    	  <aukera au="3" >Ander eta Aitor </aukera>
+  		  <aukera au="4" > Marialuisa eta Mariuluis </aukera>
+    
+  </galdera>	
+  <galdera id="6" mota="2" zail="1" src="./assets/css/images/udalatx.jpg" >
+    <galderabera >Nondik dago aterata ondoko argazkia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Murumendi</aukera>
+   	      <aukera au="2" >Bedoña</aukera>
+    	  <aukera au="3" >Udala </aukera>
+  		  <aukera au="4" >Apotza </aukera>
+    
+  </galdera>	
+    <galdera id="7" mota="3" zail="1">
+    <galderabera>Ondoko argazkietatik, zein ez da Arrasate?</galderabera>
+        <aukera au="1" erantzuna="ok" src="./assets/css/images/sanmarkos.jpg" >A</aukera>
+   	    <aukera au="2" src="./assets/css/images/udalatx.jpg">B</aukera>
+        <aukera au="3" src="./assets/css/images/udalatx.jpg">D </aukera>
+        <aukera au="4" src="./assets/css/images/udalatx.jpg"> E </aukera>
+    
+  </galdera>
+  <galdera id="8" mota="1" zail="1">
+    <galderabera>Zeintzuk dira Arrasateko jai nagusiak?</galderabera>
+    	  <aukera au="1" >Santa Ageda, Maritxu Kajoi eta San Juanak</aukera>
+           <aukera au="2" >San Juanak</aukera>
+    	  <aukera au="3" erantzuna="ok">San Juanak, Maritxu Kajoi eta Santamasak </aukera>
+  		  <aukera au="4" > San Martzialak, eta Erregeak </aukera>
+    
+  </galdera>	
+  <galdera id="9" mota="1" zail="1">
+    <galderabera>Noiz ospatzen da Maritxu Kajoi?</galderabera>
+    	  <aukera au="1"  >Iraileko azkenengo ostiralean</aukera>
+   	      <aukera au="2" erantzuna="ok" >Urriako lehen ostirala</aukera>
+    	  <aukera au="3" >Ekainak 24 </aukera>
+  		  <aukera au="4" > Abenduak 21 </aukera>
+    
+  </galdera>	
+    
+  <galdera id="10" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko patroia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >San Juan</aukera>
+   	      <aukera au="2" >San Martzial</aukera>
+    	  <aukera au="3" >San Pedro</aukera>
+  		  <aukera au="4" > San Agustin de Barraneda </aukera>
+    
+  </galdera>	
+
+</galdetegia>
+<galdetegia izena="Bergara">
+  <galdera id="1" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko auzorik altuena?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Udala</aukera>
+   	      <aukera au="2">Bedoña</aukera>
+    	  <aukera au="3">San Andres </aukera>
+  		  <aukera au="4"> Musakola </aukera>
+    
+  </galdera>
+  <galdera id="2" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko erraldoien izena?</galderabera>
+    	  <aukera au = "1" >Juan eta Pedro</aukera>
+   	      <aukera au = "2" >Aitzol eta Txipi</aukera>
+    	  <aukera au = "3" erantzuna="ok" >Marittipi eta marilozti</aukera>
+  		  <aukera au = "4"> Marialuisa eta Mariuluis </aukera>
+    
+  </galdera>	
+  <galdera id="3" mota="1" zail="1">
+    <galderabera>Zein mendiren itzaletan dago Arrasate?</galderabera>
+    	  <aukera au = "1" erantzuna="ok" >Udalaitz</aukera>
+    	  <aukera au = "2" >Anboto</aukera>
+    	  <aukera au = "3" >Kurtzebarri</aukera>
+  		  <aukera au = "4" > Muru </aukera>
+    
+  </galdera>	
+    <galdera id="4" mota="2" zail="1" src="./assets/css/images/udalatx.jpg">
+         <galderabera>Zein da ondoko irudian azaltzen den mendia?</galderabera>
+          <irudia></irudia>
+    	  <aukera au="1" erantzuna="ok" >Auskalo</aukera>
+   	      <aukera au="2"> Bedoña</aukera>
+    	  <aukera au="3" >San Andres </aukera>
+  		  <aukera au="4"> Musakola </aukera>
+    
+  </galdera>
+  <galdera id="5" mota="1" zail="1">
+    <galderabera>Green hack lab edo...</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Garatuz.com</aukera>
+   	      <aukera au="2">Aitzol eta Txipi</aukera>
+    	  <aukera au="3" >Ander eta Aitor </aukera>
+  		  <aukera au="4" > Marialuisa eta Mariuluis </aukera>
+    
+  </galdera>	
+  <galdera id="6" mota="2" zail="1" src="./assets/css/images/udalatx.jpg" >
+    <galderabera >Nondik dago aterata ondoko argazkia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >Murumendi</aukera>
+   	      <aukera au="2" >Bedoña</aukera>
+    	  <aukera au="3" >Udala </aukera>
+  		  <aukera au="4" >Apotza </aukera>
+    
+  </galdera>	
+    <galdera id="7" mota="3" zail="1">
+    <galderabera>Ondoko argazkietatik, zein ez da Arrasate?</galderabera>
+        <aukera au="1" erantzuna="ok" src="./assets/css/images/sanmarkos.jpg" >A</aukera>
+   	    <aukera au="2" src="./assets/css/images/udalatx.jpg">B</aukera>
+        <aukera au="3" src="./assets/css/images/udalatx.jpg">D </aukera>
+        <aukera au="4" src="./assets/css/images/udalatx.jpg"> E </aukera>
+    
+  </galdera>
+  <galdera id="8" mota="1" zail="1">
+    <galderabera>Zeintzuk dira Arrasateko jai nagusiak?</galderabera>
+    	  <aukera au="1" >Santa Ageda, Maritxu Kajoi eta San Juanak</aukera>
+           <aukera au="2" >San Juanak</aukera>
+    	  <aukera au="3" erantzuna="ok">San Juanak, Maritxu Kajoi eta Santamasak </aukera>
+  		  <aukera au="4" > San Martzialak, eta Erregeak </aukera>
+    
+  </galdera>	
+  <galdera id="9" mota="1" zail="1">
+    <galderabera>Noiz ospatzen da Maritxu Kajoi?</galderabera>
+    	  <aukera au="1"  >Iraileko azkenengo ostiralean</aukera>
+   	      <aukera au="2" erantzuna="ok" >Urriako lehen ostirala</aukera>
+    	  <aukera au="3" >Ekainak 24 </aukera>
+  		  <aukera au="4" > Abenduak 21 </aukera>
+    
+  </galdera>	
+    
+  <galdera id="10" mota="1" zail="1">
+    <galderabera>Zein da Arrasateko patroia?</galderabera>
+    	  <aukera au="1" erantzuna="ok" >San Juan</aukera>
+   	      <aukera au="2" >San Martzial</aukera>
+    	  <aukera au="3" >San Pedro</aukera>
+  		  <aukera au="4" > San Agustin de Barraneda </aukera>
+    
+  </galdera>	
+
+</galdetegia>
+</guregalderak>

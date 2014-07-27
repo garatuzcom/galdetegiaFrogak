@@ -1,0 +1,8 @@
+#galderaBlokea{text-align: center;}
+#galdera input[type="button"]{width: 100%;height: 40px;}
+#irudia1 img,#A img,#B img,#D img,#E img{margin-left: auto;margin-right: auto;display: block;}
+#gaze,#marka{margin-top: 4px;border-radius: 20px;padding: 9px 13px 7px 10px;width: 14px;text-align:center;}
+.ui-grid-b{height: 45px;}
+#gaze{background-color: lightblue;}
+#marka{background-color: black;color: white;text-shadow:none !important;-moz-text-shadow:none !important;-webkit-text-shadow:none !important;
+-ms-text-shadow:none !important;-o-text-shadow:none !important;}

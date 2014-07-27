@@ -1,0 +1,22 @@
+{
+ "name": "galdetegia1.0",
+ "description": "galdetegia1.0",
+ "launch_path": "/index.html",
+ "icons": {
+    "48": "/icon_96.png",
+    "72": "/icon_72.png",
+    "96": "/icon_96.png",
+    "128": "/icon_128.png"
+    },
+ "developer": {
+    "name": "Garatuz",
+    "url": "http://www.garatuz.com/"
+    },
+ "default_locate": "en"
+}
+
+
+
+
+
+

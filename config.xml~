@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+	id="com.extrema.test" version="1.0.0">
+
+	<name>Santamasapp</name>
+
+	<description>
+	Santamasapp 2.0 bertsioa 2013ko egitaraua | kartela | beste datu batzuk
+	</description>
+
+	<author email="garatuz.com@gmail.com">
+		Garatuz.com
+	</author>
+
+	<gap:platforms>
+		<gap:platform name="ios" />
+		<gap:platform name="android" minVersion="2.1" />
+		<gap:platform name="webos" />
+		<gap:platform name="symbian.wrt" />
+		<gap:platform name="blackberry" project="widgets" />
+	</gap:platforms>
+
+	<icon src="appicon.png" gap:role="default" />
+	<icon src="icon_72.png" width="96" height="96" />
+	<icon src="icon_72.png" width="72" height="72" />
+	<icon src="icon_48.png" width="48" height="48" />
+	<icon src="icon_36.png" width="36" height="36" />
+
+	<gap:splash src="appcapture.png" />
+
+	
+	<feature name="http://api.phonegap.com/1.0/network" />
+
+
+</widget>
